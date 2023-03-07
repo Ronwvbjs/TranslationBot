@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TranslationBot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SubscriptionKeyTextBoxText" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ShowSubscriptionKeyCheckBoxChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ToLanguageComboBoxSelectedIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ModelTypeComboBoxSelectedIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="BotUserNameTextBoxText" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BotTokenTextBoxText" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ShowBotToekCheckBoxChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ChannelNameTextBoxText" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TranslationBotFormLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">100, 100</Value>
+    </Setting>
+    <Setting Name="BeginTagPatternTextBoxText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">^[{\[] *(?i)</Value>
+    </Setting>
+    <Setting Name="EndTagPatternTextBoxText" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> *[}\]]</Value>
+    </Setting>
+    <Setting Name="ForceTranslationCheckBoxChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommandNameTextBoxText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">translate</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

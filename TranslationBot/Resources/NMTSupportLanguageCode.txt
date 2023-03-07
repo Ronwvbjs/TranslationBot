@@ -1,0 +1,1 @@
+ar,bg,zh-Hans,cs,da,nl,en,fr,de,hi,it,ja,ko,nb,pl,pt,ro,ru,es,sv,tr
